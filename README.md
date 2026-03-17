@@ -1,20 +1,46 @@
-## 👋 About Me
+# Hi there, I'm Davis Appiah Adjei
 
-Hi, I’m Davisone — a recent graduate (BSc Administration - Accounting Option) of the University of Ghana with a passion for building scalable, context-aware solutions at the intersection of technology, policy, and education. I thrive on turning complex challenges into actionable systems, whether it’s deploying containerized microservices, designing adaptive EdTech platforms, or crafting culturally resonant brand identities.
+I am a Software Developer and Technical Founder based in Accra, Ghana. I successfully pivoted from a BSc in Accounting to studying Computer Science at University of the People. I like to say I used to reconcile financial ledgers, and now I reconcile Git conflicts. 
 
-My work blends technical precision with strategic thinking. I’ve led projects in Python, Docker, MongoDB, and Redis, and I’m currently focused on modular architectures for EdTech and healthcare. I also explore AI-assisted learning, inclusive mobility solutions, and creative design systems for mission-driven initiatives.
+My background gives me a unique appreciation for ACID compliance, data integrity, and building architecture that makes business sense.
 
-🔧 **Skills**: Python, Go, Docker, Redis, MongoDB, scalable app architecture, policy synthesis, branding  
-📚 **Interests**: EdTech innovation, EV mobility, AI tools for low-bandwidth environments, scenario-based learning  
-🚀 **Current Projects**: PHRONESIS — a modular EdTech platform for Ghanaian tertiary education  
-🎯 **Long-Term Vision**: Transform Ghana’s system through tech-driven, policy-relevant learning
+### The TL;DR
 
-Im happy to collaborate with anyone on any best project of any kind
+```python
+class Davis(Developer, Accountant):
+    def __init__(self):
+        self.location = "Accra, Ghana"
+        self.education = ["BSc Accounting (University of Ghana)", "ICS @ Havard University", "CS @ UoPeople"]
+        self.currentFocus = ["Full-stack Development", "Cloud Infrastructure", "Data Analytics"]
+        self.focusPipeline = ["Machine Learning", "Artificial Intelligence", "LLMs", "Data Science"]
+        self.superpower = "Building scalable ETL pipelines without losing my mind"
 
-### Interested Projects
-- AI modeling
-- App Development
-- Web Development
+    def getCurrentProjects(self):
+        return {
+            "Campuzon": "A digital ecosystem built to streamline university student life.",
+            "Data Frame Ghana": "Data intelligence platform targeting Tech, Oil, and Gold sectors."
+        }
 
-Let’s build something meaningful.
+```
 
+### Technical Arsenal
+
+* **Languages:** C, Go, Python, JavaScript, SQL, HTML, CSS
+* **Frameworks & Libraries:** React, Flask, Typescript, Chi
+* **Databases:** PostgreSQL, MongoDB (Relational and Non-relational architecture)
+* **Cloud & DevOps:** Microsoft Azure, Firebase, Docker, Sentry.io
+* **Infrastructure:** SMTP Routing (ZeptoMail, Brevo), SPF/DKIM Configuration
+
+### What I Bring to the Table
+
+I focus heavily on the backend logic that makes applications tick. Whether it is setting up robust email verification flows, containerizing apps with Docker, or designing database schemas from scratch, I build systems designed to scale.
+
+### Let's Connect
+
+* **Portfolio:** [davisappiahadjei.vercel.app](https://davisappiahadjei.vercel.app)
+* **Location:** Accra, Ghana
+
+---
+
+*Always open to discussing DBMS architecture, cloud deployments, or why Python is superior for data processing.*
+*Fun Fact: Employ me now while you can -- would be out of tthe market ASAP*
