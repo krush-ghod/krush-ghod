@@ -43,4 +43,6 @@ I focus heavily on the backend logic that makes applications tick. Whether it is
 ---
 
 *Always open to discussing DBMS architecture, cloud deployments, or why Python is superior for data processing.*
-*Fun Fact: Employ me now while you can -- would be out of tthe market ASAP*
+
+---
+*Fun Fact: Employ me now while you can -- would be out of the market ASAP*
