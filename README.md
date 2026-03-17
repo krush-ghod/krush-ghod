@@ -1,6 +1,6 @@
 # Hi there, I'm Davis Appiah Adjei
 
-I am a Software Developer and Technical Founder based in Accra, Ghana. I successfully pivoted from a BSc in Accounting to studying Computer Science at University of the People. I like to say I used to reconcile financial ledgers, and now I reconcile Git conflicts. 
+I am a Strategic Business Analysist (Developer), a Software Developer and Technical Founder based in Accra, Ghana. I successfully pivoted from a BSc in Accounting to studying Computer Science at University of the People. I like to say I used to reconcile financial ledgers, and now I reconcile Git conflicts. 
 
 My background gives me a unique appreciation for ACID compliance, data integrity, and building architecture that makes business sense.
 
