@@ -10,7 +10,7 @@ My background gives me a unique appreciation for ACID compliance, data integrity
 class Davis(Developer, Accountant):
     def __init__(self):
         self.location = "Accra, Ghana"
-        self.education = ["BSc Accounting (University of Ghana)", "ICS @ Havard University", "CS @ UoPeople"]
+        self.education = ["BSc Administration - Accounting @ University of Ghana", "ICS @ Havard University", "CS @ UoPeople"]
         self.currentFocus = ["Full-stack Development", "Cloud Infrastructure", "Data Analytics"]
         self.focusPipeline = ["Machine Learning", "Artificial Intelligence", "LLMs", "Data Science"]
         self.superpower = "Building scalable ETL pipelines without losing my mind"
@@ -18,7 +18,9 @@ class Davis(Developer, Accountant):
     def getCurrentProjects(self):
         return {
             "Campuzon": "A digital ecosystem built to streamline university student life.",
-            "Data Frame Ghana": "Data intelligence platform targeting Tech, Oil, and Gold sectors."
+            "Data Frame Ghana": "Data intelligence platform targeting Tech, Oil, and Gold sectors.",
+            "AI LinkedIn Post generator" : "An automated context aware AI LinkedIn post generator with RAG integrated"
+            "Tower ID based tracking script" : "A tracking script that only needs a telephone number to track, sends Type-0 sms for handshake and gets tower location using MCN, MNN, CellID, and google map"
         }
 
 ```
