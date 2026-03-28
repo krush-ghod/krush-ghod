@@ -18,7 +18,7 @@ class Davis(Developer, Accountant):
     def getCurrentProjects(self):
         return {
             "Campuzon": "A digital ecosystem built to streamline university student life.",
-            "JinxFarm Ghana": "Data center, that focuses on extraction, transforming, visualising, and deploying meaning information to businesses and premium entities helping them make informed decisions.",
+            "JinxFarm Ghana": "Data center, that focuses on extraction, transforming, visualising, and deploying meaningful information to premium entities helping them make informed decisions.",
             "AI LinkedIn Post generator" : "An automated context aware AI LinkedIn post generator with RAG integrated"
             "Tower ID based tracking script" : "A tracking script that only needs a telephone number to track, sends Type-0 sms for handshake and gets tower location using MCN, MNN, CellID, and google map"
         }
