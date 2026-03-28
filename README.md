@@ -1,4 +1,4 @@
-# Hi there, I'm Davis Appiah Adjei
+# Hi there, I'm Appiah-Adjei Davisone
 
 I am a Strategic Business Analysist (Developer), a Software Developer and Technical Founder based in Accra, Ghana. I successfully pivoted from a BSc in Accounting to studying Computer Science at University of the People. I like to say I used to reconcile financial ledgers, and now I reconcile Git conflicts. 
 
@@ -18,7 +18,7 @@ class Davis(Developer, Accountant):
     def getCurrentProjects(self):
         return {
             "Campuzon": "A digital ecosystem built to streamline university student life.",
-            "Data Frame Ghana": "Data intelligence platform targeting Tech, Oil, and Gold sectors.",
+            "JinxFarm Ghana": "Data center, that focuses on extraction, transforming, visualising, and deploying meaning information to businesses and premium entities helping them make informed decisions.",
             "AI LinkedIn Post generator" : "An automated context aware AI LinkedIn post generator with RAG integrated"
             "Tower ID based tracking script" : "A tracking script that only needs a telephone number to track, sends Type-0 sms for handshake and gets tower location using MCN, MNN, CellID, and google map"
         }
